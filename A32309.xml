@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prince Charles his message to the Levellers in the west and his promise and royal grant concerning their just liberties and freedoms with their letter to the citizens of London touching the same : also, His Highnesse putting forth to sea with thirty sayl of French, Dutch, and Danes, 200 genltemen of note, 2000 officers and souldiers, 5000 arms and a declaration of their design: likewise, a great fight neer Plymouth between the Par. forces and 1500 Levellers upon their attempt to seize upon the town ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32309</idno>
+            <idno type="STC">Wing C3130</idno>
+            <idno type="STC">ESTC R26473</idno>
+            <idno type="EEBO-CITATION">09475569</idno>
+            <idno type="OCLC">ocm 09475569</idno>
+            <idno type="VID">43231</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32309)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43231)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1305:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prince Charles his message to the Levellers in the west and his promise and royal grant concerning their just liberties and freedoms with their letter to the citizens of London touching the same : also, His Highnesse putting forth to sea with thirty sayl of French, Dutch, and Danes, 200 genltemen of note, 2000 officers and souldiers, 5000 arms and a declaration of their design: likewise, a great fight neer Plymouth between the Par. forces and 1500 Levellers upon their attempt to seize upon the town ...</title>
+                  <author>J. T.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Laurenson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end of last item: J.T.</note>
+                  <note>Imperfect: Print show-through.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Levellers.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43231:1"/>
+            <pb facs="tcp:43231:1" rendition="simple:additions"/>
+            <p>PRINCE CHARLES HIS MESSAGE TO The <hi>Levellers</hi> in the <hi>West,</hi> and His Promiſe and Royal Grant, concerning their juſt Liberties and Free<g ref="char:EOLhyphen"/>doms; With their Letter to the Citizens of <hi>London,</hi> touching the ſame.</p>
+            <p>ALSO, His Highneſſe putting forth to Sea, with thirty Sayl of <hi>French, Dutch,</hi> and <hi>Danes,</hi> 200. Gentlemen of note, 2000. Officers and ſouldiers, 5000 Arms, and a Declaration of their deſign.</p>
+            <p>LIKEWISE, A great Fight neer <hi>Plymouth,</hi> between the Par. forces, and 1500 <hi>Levellers,</hi> upon their attempt to ſeize up<g ref="char:EOLhyphen"/>on the town, with the particulars thereof, and the number killed and taken priſoners.</p>
+            <p>
+               <hi>London,</hi> printed for <hi>G. Laurenſon, September</hi> 13. MDCXLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:43231:2"/>
+            <pb n="1" facs="tcp:43231:2"/>
+            <head>PRINCE CHARLES HIS MESSAGE TO The <hi>Levellers</hi> in the Weſt, and His Promiſe and Grant the Liberties of <hi>England,</hi> and the Freedom of the People.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe great compliance and co-actings of thoſe called <hi>Levellers</hi> with the <hi>Royaliſts,</hi> doth not a<g ref="char:EOLhyphen"/>little aſtoniſh the well affected in theſe parts, and the rather, becauſe of their falling off from their firſt principles, and adhering to the common Enemy
+<pb n="2" facs="tcp:43231:3"/>of the Nation, whoſe preſent actings and combinati<g ref="char:EOLhyphen"/>ons tends to an utter extirpation and diſſolution of the preſent Authority and Government; for many do af<g ref="char:EOLhyphen"/>firm, That their Agents in ſeverall parts, act ſt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly for the Royall Intereſt, and declare to the peope, that their preſent engagement, is for no other end but to eſtabliſh peace and truth, and to reſtore this languiſhing but late flouaiſhing Nation, to its ancient Government by <hi>King, Lords,</hi> and <hi>Commons.</hi> And it is further intimated,</p>
+            <p>That ſome of the Royall Grandees and chief Head<g ref="char:EOLhyphen"/>pieces, have ſent a Letter to the Prince, ſhewing the grounds and reaſons of this their engagement, &amp;c. To whom (we bear) a Meſſage hath been returned in an<g ref="char:EOLhyphen"/>ſwer thereunto, from the Prince, for their better en<g ref="char:EOLhyphen"/>couragement, and carrying on of the work in hand, wherein he promiſeth all poſſible aſſiſtance, the re<g ref="char:EOLhyphen"/>ſtauration of their juſt liberties and freedoms, and en<g ref="char:EOLhyphen"/>gaging of his Royall Word, to ſatisfie all intereſts, which in reaſon and equity they ſhall demand or de<g ref="char:EOLhyphen"/>fire.</p>
+            <p>But ſince the reception hereof, many have deſerted them, not approving of their addreſſes, or condeſcenſi<g ref="char:EOLhyphen"/>ons for a Kingly Government, and have again declared for the preſent Authority, reſolving to adhere to them with their lives and fortunes.</p>
+            <p>At their firſt appearing viſible in theſe parts, they ſeemed ſomewhat numerous, but within theſe few days are exceedingly diſſipated, the manner thus; A party of Sir <hi>Hardreſse Wallers</hi> Horſe having notice of their conjunction and meeting neer <hi>Plymouth,</hi> and fea<g ref="char:EOLhyphen"/>ring a ſudden ſurprizall thereof, immediatly haſted to<g ref="char:EOLunhyphen"/>wards them with a conſiderable party, conſiſting of a<g ref="char:EOLhyphen"/>bout
+<pb n="3" facs="tcp:43231:3"/>three hundred reſolved fighting men, and fell up<g ref="char:EOLhyphen"/>on them undiſcovered, killed 13 took divers priſoners and diſperſed the reſt, being in all about fifteen hun<g ref="char:EOLhyphen"/>dred, whoſe deſign were to ſurprize that impregnable Garriſon of <hi>Plymouth:</hi> Thus may we ſee the vehement flames which were breaking forth throughout the whole Nation, and how happily the fire was quenched that threatned inevitable ruine throughout all the cor<g ref="char:EOLhyphen"/>ners thereof, which (for the future) the omnipotent Je<g ref="char:EOLhyphen"/>hovah prevent, and incline the hearts of all cordiall Engliſh men to peace and truth.</p>
+            <div type="letter">
+               <opener>
+                  <dateline>
+                     <hi>Andover</hi> 
+                     <date>11. <hi>Septem.</hi> 1649.</date>
+                  </dateline>
+               </opener>
+               <p>By Letters from Oxford thus: Divers of Col: <hi>In<g ref="char:EOLhyphen"/>goldshies</hi> Regiment, and other diſcontented parties of the Gariſon, being much unſatisfied with the proce<g ref="char:EOLhyphen"/>dings of the Parl. and army, have revolted, and agreed on a Declaration to be publiſhed, ſhewing the grounds and reaſons of their engagement, <hi>viz.</hi> 1 <hi>For a diſsoluti<g ref="char:EOLhyphen"/>on of this preſent Parl. and for electing a free Repreſen<g ref="char:EOLhyphen"/>tative.</hi> 2 <hi>For ſigning of the Agreement of the people.</hi> 3 <hi>For a Councell of Agitators, according to the engagement at Triple Heath, &amp;c.</hi> This being lookt upon as a buſines of great concernment, it was thought fit to ſend down a conſiderable party againſt them; and on Sunday night a letter was ſent to the Governors of all the Garriſons of <hi>England,</hi> to give them intimation of theſe diſtem<g ref="char:EOLhyphen"/>pers, and requite their care of their ſeveral charges, thereby to avoid the like. And withall, that a copy of the letter intercepted, ſhould be incloſed therein, to ſhew the compliance and co-actings of thoſe called <hi>Levellers</hi> and the Royaliſts. Since their revolt, divers horſe and foot come in to them night and day in great numbers, their Councel conſiſted moſt of private ſol<g ref="char:EOLhyphen"/>dier.
+<pb n="4" facs="tcp:43231:4"/>at firſt, but ſome head-pieces lately come from <hi>London,</hi> are added to them, they keep their guards very ſtrong, and are ſtricter then ever we knew any, decla<g ref="char:EOLhyphen"/>ring. <hi>That their friends in other Garriſons will joyn with them, and that they doubt not but (within one month) to have a potent Army in the field, being aſsured, that not four Regiments in the Army will prejudice ahem in this quarrell, for recovery of</hi> Englands <hi>lost freedoms, and for caſe of the people from all burthens and oppreſſions; for obtaining whereof, both they and all the honest Souldiery of</hi> England <hi>were reſolved to hazard their lives and for<g ref="char:EOLhyphen"/>tunes.</hi>
+               </p>
+               <p>But they are now prevented from putting the ſame in execution; for on Munday laſt the Agitators were ſeiz'd on as they ſate in Councell, and all the Souldiers reduc'd to their former obedience.</p>
+            </div>
+         </div>
+         <div type="letter">
+            <head>A Letter from <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>VPon the advance of the Lord Governour <hi>Crom<g ref="char:EOLhyphen"/>well</hi> towards <hi>Droghedah,</hi> great was the prepara<g ref="char:EOLhyphen"/>tion of the Marq. of <hi>Ormond,</hi> and the Lord <hi>Inchiquin</hi> to receive him, and upon his neer approach with the Van, a ſelected party were drawn forth to repreſent the Royall ſalutation (as they call'd it) and according<g ref="char:EOLhyphen"/>ly the Lord <hi>Inchiquin</hi> had the honour and conduct of theſe <hi>Marſhalling Troops,</hi> who no ſooner had march<g ref="char:EOLhyphen"/>ed four miles from the town, but a diſcovery were made of a great Body of the Parl. horſe; whereupon he drew out a Forlorn conſiſting of two hundred horſe, commanded by Lieutenant Colonell <hi>Gerrard,</hi> who ad<g ref="char:EOLhyphen"/>vanced about Musket ſhot from the Body, the reſt marching after.</p>
+            <p>The Parliaments forces ſeeing this, immediately ec<g ref="char:EOLhyphen"/>cho'd
+<pb n="5" facs="tcp:43231:4"/>forth a great deal of alacrity to diſpute an en<g ref="char:EOLhyphen"/>gagement, drawing out a Forlorn likewiſe, and advan<g ref="char:EOLhyphen"/>cing towards them; infomuch, that after an hours rallying, and wheeling for wind and ground, both bo<g ref="char:EOLhyphen"/>dies had embattail'd themſelves in a well diſciplin'd poſtute for the receiving of each others charge with the moſt advantage and ſafety.</p>
+            <p>And after ſome ſhort time ſpent in conſultation by the Officers, the Trumpets founded, and both parties joyned battail, a moſt violent and deſperate charge be<g ref="char:EOLhyphen"/>ing given to each other at the firſt onſet, during which conflict, ſharp and cruell was the action, each man ſtriving for Conqueſt, and endeavouring to become maſter of the field; but the victory ſeemed dubious a long time, untill by main force; the enemies loft wing were diſordered and put to a retreat, which the right wing, and the Center-body ſeeing (for they were divi<g ref="char:EOLhyphen"/>ded into three bodies) began to decline further engage<g ref="char:EOLhyphen"/>ment, endeavouring an hononrable retreat, but the L. Governours horſe falling in with them, upon their wheeling off, divers of them were killed and taken pri<g ref="char:EOLhyphen"/>ſoners, the reſt received ſanctuary neer a ſpacious bog, where they rallyed, and by the comming in of a freſh Reſerve of three Regiments of horſe, commanded by Colonell <hi>Steward,</hi> Colonell <hi>Cotton,</hi> and Collonell <hi>Cun<g ref="char:EOLhyphen"/>ningham,</hi> the Lord <hi>Inchiquin</hi> attempted a ſecond On<g ref="char:EOLhyphen"/>ſet againſt the Lord Governours forces, who finding themſelves to be both overpowred and unfitting for a ſecond engagement, made an honourable retreat with the loſſe of thirty men, the enemy not daring to em<g ref="char:EOLhyphen"/>brace purſuit for a mile together, whoſe loſſe we hear was exceeding great in the firſt engagement, by eſti<g ref="char:EOLhyphen"/>mation at leaſt three hundred.</p>
+            <pb n="6" facs="tcp:43231:5"/>
+            <p>In this conflict the Lord <hi>Inchiquin</hi> deported him<g ref="char:EOLhyphen"/>ſelf with great gallantry in the very heat and midſt of the bittell; but Collonell <hi>Fitz. Williams</hi> (who com<g ref="char:EOLhyphen"/>manded the left wing) demean'd himſelf with as much treachery and cowardiſe.</p>
+            <p>Since which fight, we likewiſe further hear, that the Marqueſſe hath ſent a letter to the Prince, intimating, that upon the advance of our forces towards <hi>Droghe<g ref="char:EOLhyphen"/>dah,</hi> he fell upon them, routed, killed and diſperſt many hundreds, &amp;c. which ſeems as incredible as his former, and only pen'd in a falſe and contrary ſtile for the pre<g ref="char:EOLhyphen"/>ſent ſupport of his young Soveraigns drooping ſpirits. The Lord Governour is within a days march of <hi>Dro<g ref="char:EOLhyphen"/>hedah</hi> with his whole Army of horſe and foot, where he intends to fight the enemy, if they ſtay, and to lay ſiege to the town; of which more by the next.</p>
+            <div type="letter">
+               <opener>
+                  <dateline>
+                     <hi>Dublin</hi> 
+                     <date>7. <hi>Septemb.</hi> 1649.</date>
+                  </dateline>
+               </opener>
+               <p>From the Weſt ſome letters make mention, That the Prince is put to Sea with 30 Sayl of French, Dutch and Danes, accompanied by 200 Gentlemen of note, and about 2000 ſouldiers, there are ſaid to be 5000. Arms, and other furniture for war: ſome declare, that his deſign is for <hi>Guernſey,</hi> others for <hi>Ireland,</hi> but moſt probable for <hi>Scotland.</hi>
+               </p>
+               <p>There is ſaid to be a letter ſent from certain Level<g ref="char:EOLhyphen"/>lers, to their friends in <hi>London,</hi> requiring their aid and aſſiſtance in this their Engagement, but the former ob<g ref="char:EOLhyphen"/>ſtructions, its believed, will retard and fruſtrate their future actions.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>J. T.</signed>
+            </closer>
+            <pb facs="tcp:43231:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
